@@ -5,7 +5,7 @@ brand selling supplements across five Amazon markets (Germany, Spain,
 France, Italy, United Kingdom).
 
 **[View the live interactive dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDIwZTk1MTEtMjY5Ni00YTVmLWIwZWEtYzdhNDVlMDU5MzI0IiwidCI6ImIyODY1ZDFhLTcwMDktNDZiOC1hYTRhLWMyMzMzMWQ3NjQ2MSJ9)**
-**[View the portfolio write-up →]([your-netlify-link-here](https://bimbo-oyeyele.netlify.app/)**
+**[View the portfolio site →](https://bimbo-oyeyele.netlify.app/)**
 
 > Note: The underlying dataset belongs to the analysed business and is 
 > not published here. This repository contains the analysis code, 
