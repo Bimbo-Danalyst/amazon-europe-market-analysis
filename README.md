@@ -96,4 +96,4 @@ because only 29% of a €100,000 advertising budget was deployed.
 
 - `notebook/` — Jupyter notebook with data cleaning, EDA, and analysis 
   code (raw dataset not included due to confidentiality)
-- `dashboard-screenshots/` — static images of all four dashboard pages
+- `outputs/` — static images of all four dashboard pages
